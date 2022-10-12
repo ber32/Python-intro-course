@@ -1,5 +1,5 @@
 import random
-
+## hej jeg er en commmentar
 def Rulltegning6():
     RulletTal = random.randrange(1, 6)
     print(str(RulletTal))
